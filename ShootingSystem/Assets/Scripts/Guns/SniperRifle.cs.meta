@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26fd5a0ecafefa947bac85812aefee1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GunEndPoint: {instanceID: 0}
+  - crossHair: {fileID: 4403567411982182593, guid: 2acc820812ef80c4c876866686cfaa9f, type: 3}
+  - anim: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
